@@ -1,8 +1,12 @@
-Instruction:
-Clone the repository: git clone https://github.com/mazurenkooleksandr/landing-page-Fly.git
+## Instruction:
 
-Navigate to the project directory: cd landing-page-Fly
+1. Clone the repository:
+   git clone https://github.com/mazurenkooleksandr/landing-page-Fly.git
 
-Used:
-HTML
-CSS
+2. Navigate to the project directory:
+   cd landing-page-Fly
+
+## Used:
+
+- HTML
+- CSS
